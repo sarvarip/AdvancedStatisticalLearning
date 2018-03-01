@@ -1,1 +1,9 @@
+HMM with discrete observations: 
+Data: data_multinomial.mat
+Main: demo_multinomial.m
 
+HMM with observations taking continuous values
+Data: data_gaussian.mat
+Main: demo_gaussian.m
+
+Derivations for Maximum likelihood Markov Chain and HMMs with discrete observations are in 'Derivations.pdf'
