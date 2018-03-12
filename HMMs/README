@@ -7,3 +7,4 @@ Data: data_gaussian.mat
 Main: demo_gaussian.m
 
 Derivations for Maximum likelihood Markov Chain and HMMs with discrete observations are in 'Derivations.pdf'
+Summary of the HMM and details of the Viterbi algorithm are included in 'HMM_Viterbi_Summary.pdf'
